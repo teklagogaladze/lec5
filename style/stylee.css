@@ -1,0 +1,70 @@
+body {
+	margin: 0px ;
+} 
+header{
+	margin-bottom:44px ;
+}
+.logo{
+	vertical-align: middle;
+	padding: 54px 4px 54px 54px;
+}
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+.logo{
+	vertical-align: middle;
+}
+li {
+	display: inline-block;
+	font-size: 26px;
+	font-weight: 700;
+	margin-left: 80px;
+}
+ul {
+	padding: 0px;
+	margin: 0px;
+}
+.square {
+	width:1511px;
+	height: 735px;
+}
+span {
+	color: #3F4145;
+	font-size: 20px;
+	font-weight: 400;
+
+}
+.title {
+	color: #4E6FAE;
+	font-size:36px ;
+	font-weight: 700;
+}
+.adress {
+	color: #7E8898;
+	font-size: 20px;
+	font-weight: 400;
+}
+.info {
+	background-color: #E7E7E7;
+	width: 1519px;
+	height: 629px;
+	padding-top: 93px;
+
+}
+.contact {
+	vertical-align: top;
+	display: inline-block;
+	width: 475px;
+	margin-top: 0;
+	margin-left: 50px;
+}
+.map {
+	vertical-align: top;
+	display: inline-block;
+	margin-top: 0;
+}
+.icons {
+	margin-top: 145px;
+	margin-left: 41px;
+}

@@ -1,0 +1,74 @@
+body {
+	padding: 54px;
+	margin: 0px;
+}
+.logo {
+	vertical-align: middle;
+}
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+li {
+	display: inline-block;
+	font-size: 26px;
+	font-weight: 700;
+	margin-left: 80px;
+}
+.number {
+	background-color: #5012D5;
+	width: 50px;
+	height: 50px;
+	font-size: 24px;
+	color:#84FF81 ;
+	font-weight: 400;
+	text-align: center;
+	margin: 52px 0px 26px 0px;
+}
+.may {
+	color:#8D81FF ;
+	font-size:24px ;
+	font-weight: 400;
+	margin:0px 0px 8px 0px ;
+	font-family: "BPG Nostalgia", sans-serif;
+} 
+.cotect {
+	color:#4E6FAE;
+	font-size:20px ;
+	font-weight: 700;
+	margin: 0px 0px 13px 0px;
+	 font-family: "BPG Square", sans-serif;
+
+}
+.text {
+	color: #4E6FAE;
+	font-size: 16px ;
+	font-weight: 400;
+   width: 778px;
+   display: inline-block;
+   vertical-align: top;
+   line-height: 20px;
+   margin-left: 66px;
+   margin-top: -4px;
+   font-family: "BPG Square", sans-serif;
+} 
+.text3 {
+	color: #4E6FAE;
+	font-size: 16px ;
+	font-weight: 400;
+   width: 778px;
+   line-height: 20px;
+   font-family: "BPG Square", sans-serif;
+}
+.icon {
+	margin-right: 41px;
+	margin-top:143px ;
+}
+.image {
+	margin-bottom: 155px;
+}
+ul {
+	padding: 0px;
+}
+
+
